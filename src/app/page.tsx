@@ -20,7 +20,7 @@ export default function Home() {
           <Image src="/logo.webp" alt="Logo" width={92} height={92}/>
         </div>
 
-        <div className="flex justify-center items-center cursor-pointer rounded-[1.125rem] bg-neutral-900 hover:bg-neutral-800 transition duration-300 border-2 border-neutral-800 max-w-[14rem] py-2 px-1 mb-7 md:mb-4 gap-x-3 mx-auto">
+        <div className="flex justify-center items-center cursor-pointer rounded-[1.125rem] bg-neutral-900 hover:bg-neutral-800 transition duration-300 border-2 border-neutral-800 max-w-[13rem] py-1.5 px-1 mb-7 md:mb-5 gap-x-3 mx-auto">
           <div style={{ width: "10px", height: "10px", backgroundColor: "#4492FC", borderRadius: "50%", boxShadow: "0px 0px 5px 2px #4492FC90"}}></div>
           <div>
             <p className="text-white font-medium">¡Nuevos cursos! 🎉</p>
